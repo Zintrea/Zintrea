@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+This's my Github and now I'll make persernal for this maybe Im not good inEnglish But Im AI-Augmented Developer (My AI tell me)
 <!--
 **Zintrea/Zintrea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

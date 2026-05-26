@@ -1,20 +1,41 @@
-#ข้างล่างนี้สร้างโดย Gemini
-### Hi there 👋 ผมใบบุญ (Boonyapat Kittichonthawat)
+# Hi, I'm Bai / Zintrea 👋
 
-ผมเป็นนักศึกษาชั้นปีที่ 2 สาขาวิศวกรรมคอมพิวเตอร์ และเป็น **AI-Augmented Developer** ที่รักในการเรียนรู้เทคโนโลยีใหม่ ๆ และสนุกกับการนำ AI มาช่วยเพิ่มประสิทธิภาพในการสร้างสรรค์ผลงาน
+> เป็นเด็กวิศวะคอมที่เล่นซอด้วงได้นิดหน่อย
 
-#### 💻 Tech Stack & Tools
-* **Full-Stack Development:** Python, React, Next.js, Node.js, PostgreSQL
-* **AI & Automation:** AutoGen, Ollama, LM Studio, Open Interpreter, n8n
-* **Infrastructure & Tools:** Docker, Git/GitHub
+I'm a Computer Engineering student who enjoys building practical tools, learning with AI, and turning small ideas into useful projects.
 
-#### 🚀 What I'm working on
-* พัฒนาระบบ **Multi-Agent AI** ด้วย AutoGen สำหรับช่วยประพันธ์และบรรณาธิการนิยายแนวแฟนตาซี
-* สร้าง **Leaves-Notes** แพลตฟอร์มมาร์เก็ตเพลสสำหรับโน้ตดนตรีดิจิทัล
-* พัฒนาระบบ Web-based Pass & Play interface สำหรับบอร์ดเกม (เช่น Detective Club)
+## 🌱 Now
 
-#### 🌟 Beyond the Screen
-* **📚 Reading:** แฟนตัวยงของนิยายแนว Dark Fantasy อย่าง *Lord of the Mysteries*, *Shadow Slave* และ *Harry Potter*
-* **🎵 Music:** ใช้เวลาว่างไปกับการเล่นและเขียนโน้ตเพลงสำหรับซอด้วง รวมถึงฝึกซ้อมคอร์ดกีตาร์
-* **🎮 Gaming:** สนุกกับการเล่นเกมหลากหลายแนว ทั้ง *Valorant*, *Honkai: Star Rail* และ *Genshin Impact*
-* **💪 Lifestyle:** ให้ความสำคัญกับการดูแลสุขภาพด้วยการออกกำลังกายแบบ Calisthenics/Bodyweight และมีความสนใจในการวิเคราะห์กราฟเทคนิค (Technical Analysis)
+- Studying Computer Engineering
+- Building small web apps, automation tools, and AI-assisted workflows
+- Learning by making projects that are simple enough to use and easy to improve
+- Practicing ซอด้วง when I'm away from the keyboard
+
+## ✨ Featured work
+
+| Project | What it is | Tech |
+|---|---|---|
+| [miclink](https://github.com/Zintrea/miclink) | Stream an iPad/iPhone mic to PC for Discord, OBS, or Zoom | Python |
+| [leaves-notes-web](https://github.com/Zintrea/leaves-notes-web) | A web project for music notes and learning content | TypeScript |
+| [Youtube-loader](https://github.com/Zintrea/Youtube-loader) | A small tool for downloading YouTube videos | Python |
+| [lunis-os](https://github.com/Zintrea/lunis-os) | Personal assistant / life-OS experiment | Learning project |
+
+## 🧰 Toolbox
+
+**Languages & Web**  
+Python · TypeScript · JavaScript · React · Next.js · HTML · CSS
+
+**AI & Automation**  
+AI agents · local LLM tools · workflow automation · prompt-driven development
+
+**Dev Tools**  
+Git · GitHub · Docker · WSL · VS Code
+
+## 🎵 A tiny personal note
+
+I like projects that mix creativity and engineering. Sometimes that means AI tools, sometimes web apps, and sometimes writing or practicing music for ซอด้วง.
+
+## 📫 Find me
+
+- GitHub: [@Zintrea](https://github.com/Zintrea)
+- Main profile repo: [Zintrea/zintrea](https://github.com/Zintrea/zintrea)

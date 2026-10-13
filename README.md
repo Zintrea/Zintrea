@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4C1D95,55:8B5CF6,100:C4B5FD&height=190&section=header&text=Baiboon%20%F0%9F%8E%BB&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=Computer%20Engineering%20%7C%20DevOps%20%26%20Local%20AI&descSize=16&descAlignY=60&animation=fadeIn" width="100%" alt="header"/>
+<img src="assets/header.svg" width="100%" alt="Baiboon — Computer Engineering | DevOps & Local AI"/>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=B794F6&center=true&vCenter=true&width=520&lines=Computer+Engineering+student+%40+CDTI;DevOps+for+a+4-PC+LAN+AI+app;Running+local+AI+on+8GB+VRAM;Basic+is+best+%F0%9F%8C%B1" alt="Typing SVG" /></a>
 
@@ -31,7 +31,7 @@ baiboon = {
     "role_now":   "DevOps on LUMA (Nginx · Flask · Forge · PostgreSQL)",
     "playground": ["Local LLMs", "Stable Diffusion Forge", "Image Processing"],
     "gpu":        "RTX 5060 8GB — squeezing every MB of VRAM",
-    "motto":      "Basic is best",
+    "motto":      "Shoot for the moon. Even if you miss, you'll land among the stars.",
     "afk":        ["ซอด้วง", "guitar"],
 }
 ```
@@ -123,4 +123,4 @@ Personal assistant / life-OS experiment — where I try out AI-assisted workflow
 
 *Feel free to explore my repos, open an issue, or just say hi!* 👋💜
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4C1D95,55:8B5CF6,100:C4B5FD&height=100&section=footer" width="100%" alt="footer"/>
+<img src="assets/footer.svg" width="100%" alt=""/>
